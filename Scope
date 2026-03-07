@@ -1,0 +1,4 @@
+TemocTrade is a marketplace application designed for current students at the University of Texas at Dallas. The system shall allow verified students to buy and sell items using their university email for authentication.
+The application shall enable users to create, manage, and browse listings for various items. Users can search for products, communicate with sellers through a messaging system, and complete purchases through an integrated payment gateway.
+The platform will be accessible through desktop and mobile devices, including safety features, such as reporting mechanisms for scams or inappropriate behavior or listings. User information and payment data will be protected through secure transaction processing.
+TemocTrade has a focus on providing a safe, student-only trading environment, without external marketplace participation or non-UTD users. 
